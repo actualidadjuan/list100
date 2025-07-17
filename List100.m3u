@@ -272,7 +272,7 @@ https://s2.we4stream.com/listen/loca_hard_techno/live
 https://s2.we4stream.com/listen/loca_industrial/live
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio Varias" tvg-name="Loca FM Drum&Bass",Loca FM Drum&Bass
 https://s2.we4stream.com/listen/loca_drum__bass/live
-#EXTINF:-1 radio="true" tvg-id="RadioBetis.Radio" tvg-logo="https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200" group-title="Radio Varias" tvg-name="Real Betis Radio",Real Betis Radio
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200" group-title="Radio Varias" tvg-name="Real Betis Radio",Real Betis Radio
 https://comcast01-h-cloud.flumotion.com/betistv/radio1.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/udalmeriasad/picture?width=200&height=200" group-title="Radio Varias" tvg-name="UD Almeria Radio",UD Almeria Radio
 https://srv6022.dns-lcinternet.com:8002/livelq

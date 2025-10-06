@@ -5,7 +5,7 @@ https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="" group-title="TDT" tvg-name="La 2",La 2
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 #EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="TDT",Antena 3
-http://185.189.225.150:85/Antena3HD/index.m3u8
+http://astra.iptvlocal.net/play/a08w/index.m3u8
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="TDT",Cuatro
 http://185.189.225.150:85/CuatroHD/index.m3u8
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png" group-title="TDT",Telecinco
@@ -37,6 +37,12 @@ https://broadcast.radioponiente.org:9443/live/smil:almeria24h.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb6DZpbxOMbN_VANCdenLck4ceg7gxMk5tnkjmM=s200" group-title="Entretenimiento" tvg-name="Andalucía Cocina",Andalucía Cocina
 #EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+#EXTINF:-1 tvg-id="AE.us" tvg-logo="" group-title="Entretenimiento",A&E
+http://astra.iptvlocal.net/play/a0g1/index.m3u8
+#EXTINF:-1 tvg-id="AnimeVisionClassics.es" tvg-name="Anime Vision Classics" tvg-logo="https://i.imgur.com/aYptdKX.png" group-title="Series",Anime Vision Classics
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+#EXTINF:-1 tvg-id="AnimeVision.es" tvg-name="Anime Vision" tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="Series",Anime Vision
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 #EXTINF:-1 tvg-id="BlackCinema.us" tvg-logo="https://i.imgur.com/FKBp987.png" group-title="Movies",Black Cinema
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9
 #EXTINF:-1 tvg-id="BlackClassics.us" tvg-logo="https://i.imgur.com/2nNpGqy.png" group-title="Movies",Black Classics
@@ -200,6 +206,8 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cambodiatvk/picture?width=200&height=200" group-title="General" tvg-name="TVK Camboya",TVK Camboya
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TarotVision.es" tvg-name="TarotVision" tvg-logo="https://i.imgur.com/yOQ9e3a.png" group-title="TDT",TarotVision
+https://stream.andalhost.com/hls/tarotvision.m3u8
 
 
 

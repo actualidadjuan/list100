@@ -145,7 +145,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="TDT",Mega
 http://185.189.225.150:85/mega/index.m3u8
 #EXTINF:-1 tvg-id="Mac1" tvg-logo="hhttps://cdn.iconscout.com/icon/free/png-256/free-apple-853-675472.png" group-title="Local Channel" tvg-name="Mac 1",Mac 1
-http://192.168.1.135:8080/hls/stream.m3u8
+http://192.168.1.136:8080/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Medi1.TV" tvg-logo="https://graph.facebook.com/Medi1TV/picture?width=200&height=200" group-title="General" tvg-name="Medi1 TV Marruecos",Medi1 TV Marruecos
 https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="NegociosTV.es" tvg-logo="https://i.imgur.com/GrzQ1ya.png" group-title="News",Negocios TV

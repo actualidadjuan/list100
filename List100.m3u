@@ -144,13 +144,18 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcbebf0b-626f-449a-85cf-4ce663af39d1
 #EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="TDT",Mega
 http://185.189.225.150:85/mega/index.m3u8
-#EXTINF:-1 tvg-id="Mac1" tvg-logo="hhttps://cdn.iconscout.com/icon/free/png-256/free-apple-853-675472.png" group-title="Local Channel" tvg-name="Mac 1",Mac 1
+#EXTINF:-1 tvg-id="Mac" tvg-logo="hhttps://cdn.iconscout.com/icon/free/png-256/free-apple-853-675472.png" group-title="Local Channel" tvg-name="Mac",Mac
 http://192.168.1.136:8080/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Medi1.TV" tvg-logo="https://graph.facebook.com/Medi1TV/picture?width=200&height=200" group-title="General" tvg-name="Medi1 TV Marruecos",Medi1 TV Marruecos
 https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="NegociosTV.es" tvg-logo="https://i.imgur.com/GrzQ1ya.png" group-title="News",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
-#EXTINF:-1 tvg-id="OutdoorAmerica.us" tvg-logo="https://i.imgur.com/UKfimFD.png" group-title="Documentary",Outdoor America
+#EXTINF:-1 tvg-id="OutdoorAmerica.us" tvg-logo="https://i.imgur.com/UKfimFD.png" group-title="Documentary",Outdoor America group-title="General" tvg-name="TeleSUR Venezuela",TeleSUR Venezuela
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="General" tvg-name="TV Perú",TV Perú
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cambodiatvk/picture?width=200&height=200" group-title="General" tvg-name="TVK Camboya",TVK Camboya
+https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Pequeradio.es" tvg-logo="https://i.imgur.com/BNqZwxS.png" group-title="Kids",Pequeradio
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
@@ -194,14 +199,11 @@ https://directes-tv-cat.3catdirectes.cat/live-origin/tv3-hls/master.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.es" group-title="Documentary",The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleSUR.TV" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=200&height=200" group-title="General" tvg-name="TeleSUR Venezuela",TeleSUR Venezuela
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="General" tvg-name="TV Perú",TV Perú
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cambodiatvk/picture?width=200&height=200" group-title="General" tvg-name="TVK Camboya",TVK Camboya
-https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleSUR.TV" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=200&height=200"
 #EXTINF:-1 tvg-id="TarotVision.es" tvg-name="TarotVision" tvg-logo="https://i.imgur.com/yOQ9e3a.png" group-title="TDT",TarotVision
 https://stream.andalhost.com/hls/tarotvision.m3u8
+#EXTINF:-1 tvg-id="Windows" tvg-logo="https://img.icons8.com/?size=48&id=17KMxiQaWhwG&format=png" group-title="Local Channel" tvg-name="Windows",Windows
+http://192.168.1.149:8080/hls/stream.m3u8
 
 
 

@@ -203,7 +203,7 @@ https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TarotVision.es" tvg-name="TarotVision" tvg-logo="https://i.imgur.com/yOQ9e3a.png" group-title="TDT",TarotVision
 https://stream.andalhost.com/hls/tarotvision.m3u8
 #EXTINF:-1 tvg-id="Windows" tvg-logo="https://img.icons8.com/?size=48&id=17KMxiQaWhwG&format=png" group-title="Local Channel" tvg-name="Windows",Windows
-http://192.168.1.149:8080/live.m3u8
+http://192.168.1.149:8080/stream.m3u8
 
 
 
